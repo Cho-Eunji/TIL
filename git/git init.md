@@ -1,5 +1,3 @@
-# Second Repo
-
 ## This is my second repo to practice how to start git with `$ git init`
 
 ## Commands
